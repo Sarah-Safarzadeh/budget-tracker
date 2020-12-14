@@ -2,9 +2,9 @@
 ## Week 19: Progressive Web Applications (PWA) Challenge: Budget Tracker
 
 ### Table of Contents
-*[User Story]*(#user-story)
-*[Acceptance Criteria]*(#acceptance-criteria)
-*[Technology Used]*(#technology-used)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technology Used](#technology-used)
 
 ## User Story
 * AS AN avid traveler\
