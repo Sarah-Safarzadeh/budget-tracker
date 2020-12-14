@@ -3,5 +3,12 @@
     "short_name": "Budget Tracker",
     "description": "An app that allows you to track your finances and manage your budget.",
     "background_color": "#01579b",
-    "theme_color": "#ffffff"
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+        "src": "",
+        "type": "",
+        "size": ""
+        }
+    ]
   }
