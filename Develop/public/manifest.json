@@ -2,7 +2,7 @@
     "name": "Budget Tracker",
     "short_name": "Budgeter",
     "description": "An app that allows you to track your finances and manage your budget.",
-    "start_url": "",
+    "start_url": "https://arcane-falls-31894.herokuapp.com/",
     "background_color": "#01579b",
     "theme_color": "#ffffff",
     "icons": [
