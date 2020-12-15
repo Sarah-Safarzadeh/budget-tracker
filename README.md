@@ -26,3 +26,7 @@
 * lite-server
 * Node
 * npm
+
+## Deployment
+* [Heorku](https://arcane-falls-31894.herokuapp.com/)
+* [GitHub Repo](https://github.com/Sarah-Safarzadeh/budget-tracker)
